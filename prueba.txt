@@ -1,6 +1,6 @@
 Este es un archivo de prueba.
 en la linea 2 lorenzo mete la zarpa 
 empezamos las pruebas de conflictos!! - Mila
-modificaciones Gema
+modificaciones Gema, aqui lorenzo vuelve a meter la zarpa
 Se añade una nueva línea para comprobar los cambios.
 Linea de AnaLopez
